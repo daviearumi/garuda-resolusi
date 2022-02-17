@@ -1,1 +1,1 @@
-testing garuda
+worker: python3 bot.py
