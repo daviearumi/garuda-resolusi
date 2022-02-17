@@ -1,2 +1,0 @@
-# garuda-resolusi
-garuda88
